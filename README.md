@@ -1,7 +1,7 @@
 # R-Shiny-Datatable-Keystroke
 
 
-Shiny Datatable with Keystroke Left/Right Arrows
+Shiny Datatable with Keyboard Left/Right Arrows
 DT Library with Jquery
 ==============
 
