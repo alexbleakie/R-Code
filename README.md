@@ -13,7 +13,8 @@ Arrow keys make application use much easier.
 Thanks  
 Alex Bleakie  
 bleakie_8@hotmail.com  
-
+  
+    
 
 Check Out:  
 https://stocktwits.com/SeasonWarez  
