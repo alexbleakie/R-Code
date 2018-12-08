@@ -16,7 +16,7 @@ bleakie_8@hotmail.com
 
 
 Check Out:
-https://stocktwits.com/SeasonWarez
-https://www.youtube.com/channel/UCxnY_R2ugscPCobfKwvanRg
+https://stocktwits.com/SeasonWarez  /n
+https://www.youtube.com/channel/UCxnY_R2ugscPCobfKwvanRg /n
 seasonwarez.com
 seasonwarez@gmail.com
