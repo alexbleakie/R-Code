@@ -12,12 +12,3 @@ Arrow keys make application use much easier.
 
 Thanks  
 Alex Bleakie  
-bleakie_8@hotmail.com  
-  
-    
-
-Check Out:  
-https://stocktwits.com/SeasonWarez  
-https://www.youtube.com/channel/UCxnY_R2ugscPCobfKwvanRg  
-seasonwarez.com  
-seasonwarez@gmail.com  
