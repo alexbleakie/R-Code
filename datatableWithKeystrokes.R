@@ -4,7 +4,6 @@ library(shinythemes)
 ####
 #Created by Alex Bleakie   2018
 #bleakie_8@hotmail.com
-#seasonwarez.com    seasonwarez@gmail.com
 ####
 # Enjoy
 
